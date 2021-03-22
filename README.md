@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code for my future job!
 - 🌱 I’m currently learning hoe to make web pages using git, html, etc..
 - 💞️ I’m looking to collaborate on making web pages (this semester)
-- 📫 How to reach me: by email please. I would be happy to help you with your code(if I can)
+- 📫 How to reach me: by email please. I'll be happy to help you with your code(if I can)
 
 
 
