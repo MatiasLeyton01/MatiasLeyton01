@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @MatiasLeyton01
-- 👀 I’m interested in learning to code for my future job!
-- 🌱 I’m currently learning hoe to make web pages using git, html, etc..
-- 💞️ I’m looking to collaborate on making web pages (this semester)
-- 📫 How to reach me: by email please. I'll be happy to help you with your code(if I can)
+- 👋 Hola, soy @MatiasLeyton01
+- 👀 Estoy interesado en mejorar mis habilidades de programacion y pensamiento crito para mis futuros trabajos
+- 🌱 Actualmente estoy estudiando Python, SQL y Matematicas.
 
 
 
